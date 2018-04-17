@@ -17,9 +17,9 @@ Las pautas principales a seguir para trabajar de forma feliz con un repositorio 
  - Commitear y pushear (subir los cambios) al repositorio remoto seguido, ni bien terminás una unidad chica de trabajo.
  - No pushear código que no compila o que rompe una funcionalidad preexistente que andaba.
  - Tener una comunicación fluída con el resto de los integrantes y los tutores. Hay algunas herramientas simples para esto:
-  - Usar los issues, idealmente de forma ordenada: un issue por cada tema a discutir, etiquetarlos con el label que mejor aplique, cerrarlos cuando corresponda.
-  - Dejar comentarios en los commits, para conversaciones a más bajo detalle que lo ameriten.
-  - Pueden arrobar a un compañero / tutor de ser necesario en los issues y comentarios.
+   - Usar los issues, idealmente de forma ordenada: un issue por cada tema a discutir, etiquetarlos con el label que mejor aplique, cerrarlos cuando corresponda.
+   - Dejar comentarios en los commits, para conversaciones a más bajo detalle que lo ameriten.
+   - Pueden arrobar a un compañero / tutor de ser necesario en los issues y comentarios.
  - Estar al tanto de lo que los otros subieron al repositorio. No vale desentenderse. La responsabilidad es compartida por todos!
 
 Material complementario
